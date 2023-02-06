@@ -57,7 +57,7 @@ Por eso aprendí programación y por eso estoy acá, para poder desarrollar toda
 
 ## Connect with me  
 <div align="center">
-  <a href="mi telefono: +57 3014574970 target="_blank">
+  <a href="mi telefono: +57 3014574970" target="_blank">
 </a>
 <a href="https://github.com/Brareyesb15" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
