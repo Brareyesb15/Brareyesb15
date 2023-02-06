@@ -1,9 +1,11 @@
+
+### <div align="center">¡Hola! Soy Brandon Reyes y soy desarrollador web full stack!</div>  
+  
+
+
 <div align="center">
 <img src="https://content.wolfram.com/uploads/sites/43/2018/04/3-controlsPossibilities1.png" align="center" style="width: 100%" />
 </div>  
-  
-
-### <div align="center">¡Hola! Soy Brandon Reyes, desarrollador web full stack.</div>  
   
 
 
@@ -55,6 +57,8 @@ Por eso aprendí programación y por eso estoy acá, para poder desarrollar toda
 
 ## Connect with me  
 <div align="center">
+  <a href="mi telefono: +57 3014574970 target="_blank">
+</a>
 <a href="https://github.com/Brareyesb15" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -74,32 +78,3 @@ Por eso aprendí programación y por eso estoy acá, para poder desarrollar toda
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=brareyesb15&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
