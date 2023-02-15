@@ -11,9 +11,12 @@
 
 
 Siempre fui un amante de la tecnología, y resulta que en mi vida laboral o en mis tiempos de ocio surgían problemas que podían ser solucionados a través de aplicaciones, pero no sabía hacerlas!!!! 
-Por eso aprendí programación y por eso estoy acá, para poder desarrollar todas estas soluciones, y me encanta poder hacerlo!   
+Por eso aprendí programación y por eso estoy acá, para poder desarrollar todas estas soluciones, y me encanta poder hacerlo! 
+Mis tecnologías: 
 
-Puedes contactarme a través de mi correo electronico: brareyes115@gmail.com, mis otras redes están más abajo! 
+HTML|| Javascript || React || Node.js || Sequelize || CSS||  Redux || Express || PostgreSQL || Scrum 
+
+Puedes contactarme a través de mi correo electronico: brareyes115@gmail.com o mi linkedIn : https://www.linkedin.com/in/brandonreyesb/
   
 
 <br/>  
