@@ -4,7 +4,7 @@
 
 
 <div align="center">
-<img src="https://content.wolfram.com/uploads/sites/43/2018/04/3-controlsPossibilities1.png](https://4.bp.blogspot.com/-s3FTYSXZx4I/Wt2ZtkYsylI/AAAAAAAATeM/wlHbi6His34cTvpAK1ts3eeid9Wwp_qhACLcBGAs/s1600/2001-una-odisea-en-el-espacio-56.jpg)" align="center" style="width: 100%" />
+<img src="[https://content.wolfram.com/uploads/sites/43/2018/04/3-controlsPossibilities1.png](https://4.bp.blogspot.com/-s3FTYSXZx4I/Wt2ZtkYsylI/AAAAAAAATeM/wlHbi6His34cTvpAK1ts3eeid9Wwp_qhACLcBGAs/s1600/2001-una-odisea-en-el-espacio-56.jpg)](https://4.bp.blogspot.com/-s3FTYSXZx4I/Wt2ZtkYsylI/AAAAAAAATeM/wlHbi6His34cTvpAK1ts3eeid9Wwp_qhACLcBGAs/s1600/2001-una-odisea-en-el-espacio-56.jpg)" align="center" style="width: 100%" />
 </div>  
   
 
